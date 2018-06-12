@@ -84,10 +84,12 @@ describe "test de una familia que NO pasea" {
 //		assert.equals(2 , /* abrigo de zapatillasZoe*/)
 //		assert.equals(5 , /* abrigo de jeanZoe */)
 //		assert.equals(1 , /* abrigo de remeraZoe*/)
+
 //		assert.equals(3 , /* abrigo de camperaZoe*/)
 //		assert.equals(1 , /* abrigo de remeraMilena*/)		
 //		assert.equals(1 , /* abrigo de calzaMilena*/)
 //		assert.equals(5 , /* abrigo de ojotasMilena*/)
+
 	}
 
 //PUNTO 4		

@@ -136,6 +136,7 @@ class PrendaPar inherits Prenda{
 	-if (persona.esChiquito()){1}else {0}
 	
 	
+	
 	// nivel de comodidad
 	override method nivelComodidad(ninio) = 
 	
